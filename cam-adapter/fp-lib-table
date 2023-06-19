@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "fpga-adapter")(type "KiCad")(uri "${KIPRJMOD}/fpga-adapter.pretty")(options "")(descr ""))
+  (lib (name "cam-adapter")(type "KiCad")(uri "/home/rob/fpga-boards/cam-adapter.pretty")(options "")(descr ""))
+)

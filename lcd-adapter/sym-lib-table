@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "rpi-adapter")(type "KiCad")(uri "${KIPRJMOD}/rpi-adapter.kicad_sym")(options "")(descr ""))
+  (lib (name "lcd")(type "KiCad")(uri "/home/rob/fpga-boards/lcd.kicad_sym")(options "")(descr ""))
+  (lib (name "lcd-adapter")(type "KiCad")(uri "/home/rob/fpga-boards/lcd-adapter.kicad_sym")(options "")(descr ""))
+)

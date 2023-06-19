@@ -1,0 +1,9 @@
+PMOD A  PMOD B  PMOD C  PMOD D
+F23     H21     D24     E23
+G22     J21     D23     F22
+K22     M20     E22     E26
+L22     N19     E21     F25
+J25     D25     G26     A24
+J24     E25     G25     A23
+L24     G21     H26     C26
+M24     H21     J26     D26
